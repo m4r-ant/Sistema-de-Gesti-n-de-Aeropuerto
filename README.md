@@ -262,6 +262,3 @@ CREATE INDEX idx_numero_vuelo ON vuelo (numero_vuelo);
 ```sql
 CREATE INDEX idx_id_pasajero ON equipaje (id_pasajero);
 ```
-
-¡Listo para usar! Si necesitas más detalles o tienes alguna duda, no dudes en preguntarme.
-```
